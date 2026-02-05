@@ -1,4 +1,3 @@
-# Wall-SG
 Sou estudante de TI e desenvolvedor em formação.
 
 Minha paixão é criar soluções completas e funcionais, especialmente para áreas como saúde e agronegócio, onde a tecnologia pode fazer muita diferença.
